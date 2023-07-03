@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		H6knjuQ3t/ZNW9Yqew35Gq9iCnI=
+		RyJRei6rUSHZcor5FSx8nVfa/xM=
 		</data>
 		<key>Frameworks/AmazonIVSPlayer.framework/AmazonIVSPlayer</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/Info.plist</key>
 		<data>
-		HFxVrWPBLVeaPjNcYlVIVZz/LHw=
+		3dsvSa0IwGXDULVyQEOXn86N7Go=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/Pods_ClickmeliveiOSSDK</key>
 		<data>
-		AWZgSkSppGjZlkLoMGXRxDS3xNQ=
+		FFaOnwdlJ3pYyQBXZf0dvRgvRhs=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		DfclY3rJODM5a6RnxbiFZo2EBU8=
+		lJwDK9m74ZTg/ZFqbJrggUW91rc=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		+Fu0PGuDsZ7yYjaxd+inpqpahrk=
+		As/kEEWz82o8cCS5NQV4db6erfU=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		iG8jdQZROfHvxcCb77bU1+fVO6Y=
+		RiLbfYAfp5L2B3C2WiHIUGUUaRI=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -50,15 +50,15 @@
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/Info.plist</key>
 		<data>
-		L07Kl2XXzNbuA9t/0ydhLHaoM70=
+		JuQDcqachKJHI2KOJvMpZJpLpjE=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests</key>
 		<data>
-		mwFpxMRaA1WfPHnHGNoEsneQ13Y=
+		uhwIaPcPiXIMr3ywiEjnHPtTbIU=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		sVQ0d6xjwFoyZuNWFwJ7POz1PeA=
+		TFs3pnU50BowO3CveNSCnfbhEkg=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		/VgWqClAflKyE4gZgiBV6UjNAkM=
+		pE7HwjAJ3NUdSnCE+/zSn3qbH3M=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Ab1G4aKmH4X3aiovMPZ7l9LusKA=
+		zvSilNgWGDpp83g5vtEiAwu0l3A=
 		</data>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Headers/ClickmeliveiOSSDK-Swift.h</key>
 		<data>
-		+DYxLelxju5D6kyqT7N2KVXOz7w=
+		qiKqXYXDzX7McbrDnu0xpoIhFFU=
 		</data>
 		<key>Headers/ClickmeliveiOSSDK.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Bz6vsA7BNZiKpmtF17ArfqLX6/U=
+		Fpg4Zy+xldLSYeUwFPDQjXVSNWE=
 		</data>
 		<key>Interests.strings</key>
 		<data>
@@ -170,23 +170,23 @@
 		</data>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		gVUzB5YO3FrXJVFRRfx6neYX8jw=
+		ENZswOBc4U+yBY2RlydSnwtHJsE=
 		</data>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wGjmBZKnRvIiaLjW65DInZc1ATg=
+		hB1i5Lajo49bD5z3mUbn/F5E/us=
 		</data>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZxE5McETqsW7Bn2Zz1WeO3EmAKs=
+		Y/GXgiaLx2AZIGWYysi2LK7F498=
 		</data>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wGjmBZKnRvIiaLjW65DInZc1ATg=
+		hB1i5Lajo49bD5z3mUbn/F5E/us=
 		</data>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SDLgXC7UzzVv2UIAre8fdg66yrE=
+		XrXf4POatITKb9PpYoIWicdNW0M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -403,7 +403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WFcAg6/pkoHg8746yNIansrzCTEXKamgtYXi6Ia6Yg4=
+			DKJMn8mSGA4UzhrDxLlh8wSsaWUCN617DcCw7GflTsM=
 			</data>
 		</dict>
 		<key>Frameworks/AmazonIVSPlayer.framework/AmazonIVSPlayer</key>
@@ -431,21 +431,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XK1klxDSZlRTp/EnnwfXpm4O+bNuS0fbtDKZIrbewOY=
+			lkXpHK0ADiS2zRQwv6sV3kqS4VcVOQyfM1Xkt1avz1o=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/Pods_ClickmeliveiOSSDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zFN0LPYH22w9N7Uy28VkHPSOyypTaNgoQ/z5H8MiyGc=
+			HK/LnpbxbTUrdLn919s7qincDDhrEP2ibYoh4/rplhI=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I4/k/eMK6kFJLYK8y5El3AukOrmp6+YTN/Emr1Qcmgs=
+			lS+kpN8SX6ngeRhpbFzkdsELj3VXUbOx7qnPA5o7iwg=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -459,14 +459,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dW8ZZilrKIxjDLKne6tbRGZ05MrkHrg4rLrTf5rMSN0=
+			r/yDXDNEjfREU9brPHC103alowQ98BW8OTjcGe3Nwpc=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xehiUq/fbR8a0r4VBXSo0L84Yfm3IUjvNMEioPM45+Y=
+			psDfEzKWapdcVjlERkRsJIo6EQKhYlGuD8sCNeQgkLk=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK.framework/_CodeSignature/CodeSignature</key>
@@ -480,21 +480,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PaeeKCJPkBbiMYbZcWpePFA/ke55dRQk2N4BvLQOp8Y=
+			Y76bm1WROT27W57UWBNaB+uCAd6cPxUb753OSV0Mjsk=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			znIeZiMUnGBCsNi7ryGJI5yizRVXx550BZwafBiUs8M=
+			O0cmQ6gU0yy1LVDzawebHCUy+p2f3PFYOg7/6sZGaqI=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L6CEj5aq51MBJzX3EO5yDeZUyMgSTckfhnlzsGzukpU=
+			BtnHIdciuAFUc4Kw9rT9HNAQB+zzXxyly/Ps9JK44MM=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeRequirements</key>
@@ -508,14 +508,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ht5vZ0S8eOw+AvI18MxhNSTNODFzLmaVQ9koMcXLCvE=
+			RGR49Rn0l4F5+q2bqRKepreosvRzvPjCFs9i3nvUzMs=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			spHDGwE4Qj5vHR4pcJD6ch7AgXYQyNzmUpHEZPJuNKk=
+			XEz+rbrAiftCrZmkO4kYez6aax4sxaUO/HUIAZPb9Co=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ClickmeliveiOSSDK_ClickmeliveiOSSDKTests.framework/_CodeSignature/CodeSignature</key>
@@ -529,7 +529,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KVx1iPLcq+hc6b7N7opvr5UUAVYgstAQzaQSD0asvzg=
+			4/Bt9A4r3RhqXPYtqTWHwty/YaAxRsRiMUqON3QNolM=
 			</data>
 		</dict>
 		<key>Headers/ClickmeliveiOSSDK.h</key>
@@ -683,35 +683,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cWi7r1HMa5mr8Zrfp4ajjalBjQ8pO5g7myqAgCSZxrI=
+			hG5LKMOHNkqiGuR2VPKEqv3Td4iRgAmKtNrNDSbK5C8=
 			</data>
 		</dict>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eu/s1Sg+5uGHc6efbnUP0pGfc8eW9/IlupKGdt9vu0Q=
+			Tp3PYONcGA8FR0R1sh0dFga/jxvxTwwIuJA0uNbNtHs=
 			</data>
 		</dict>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1bXMOIkc1PF9qLYofOW1G9WL2Z7D4ydGfq8NGEg84qQ=
+			Exl+VyOwWnU33g0VrDjv2ztTKvvJwrkNhhsuydfKoFU=
 			</data>
 		</dict>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eu/s1Sg+5uGHc6efbnUP0pGfc8eW9/IlupKGdt9vu0Q=
+			Tp3PYONcGA8FR0R1sh0dFga/jxvxTwwIuJA0uNbNtHs=
 			</data>
 		</dict>
 		<key>Modules/ClickmeliveiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvShEm4FYLbxsnoZX/LqFUOTwHy8bKrX+J3YIhP1l5s=
+			vXPYk1tvC/zMilJY+jNGZJdLkuxG0M/VYAHaD/IjDyE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

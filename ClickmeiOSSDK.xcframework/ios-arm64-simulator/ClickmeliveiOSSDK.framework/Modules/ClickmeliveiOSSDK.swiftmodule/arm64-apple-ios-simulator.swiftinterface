@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name ClickmeliveiOSSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Alamofire
@@ -85,7 +85,7 @@ public struct CMLUser {
   public init(userName: Swift.String, userId: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class CML {
-  public static func configure(servers: ClickmeliveiOSSDK.Servers, environment: ClickmeliveiOSSDK.AppEnvironment.Environment, apiKey: Swift.String, apiSecret: Swift.String, user: ClickmeliveiOSSDK.CMLUser, onOpenProductDetail: @escaping (ClickmeliveiOSSDK.Product) -> Swift.Void, onAddToBasket: @escaping (ClickmeliveiOSSDK.Product) -> Swift.Void, onBasketClicked: @escaping () -> Swift.Void)
+  public static func configure(environment: ClickmeliveiOSSDK.AppEnvironment.Environment, apiKey: Swift.String, apiSecret: Swift.String, user: ClickmeliveiOSSDK.CMLUser, onOpenProductDetail: @escaping (ClickmeliveiOSSDK.Product) -> Swift.Void, onAddToBasket: @escaping (ClickmeliveiOSSDK.Product) -> Swift.Void, onBasketClicked: @escaping () -> Swift.Void)
   public static func makeCMLNavigationController() -> ClickmeliveiOSSDK.CMLNavigationController
   public static func makeHomePageViewController() -> UIKit.UIViewController
   public static func makeFeedViewController(events: [ClickmeliveiOSSDK.Event], selectedIndexPath: Foundation.IndexPath, rootNavigationController: UIKit.UINavigationController?, disablePip: Swift.Bool = false) -> ClickmeliveiOSSDK.FeedViewController
