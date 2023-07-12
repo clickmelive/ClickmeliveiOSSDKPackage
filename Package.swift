@@ -4,13 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "ClickmeliveiOSSDK",
-    platforms: [.iOS(.v11)],
+    name: "ClickmeliveiOSSDKPackage",
+    platforms: [
+        .iOS(.v11)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "ClickmeliveiOSSDK",
-            targets: ["ClickmeliveiOSSDKTarget"]),
+            name: "ClickmeliveiOSSDKPackage",
+            targets: ["ClickmeliveiOSSDKPackage"]),
     ],
     dependencies: [
         .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.6.4")),
@@ -18,6 +19,12 @@ let package = Package(
         .package(url: "https://github.com/airbnb/lottie-spm.git", from: "4.2.0")
     ],
     targets: [
+        .target(
+            name: "ClickmeliveiOSSDKPackage",
+            dependencies: ["ClickmeliveiOSSDKTarget"]),
+        .testTarget(
+            name: "ClickmeliveiOSSDKPackageTests",
+            dependencies: ["ClickmeliveiOSSDKPackage"]),
         .target(
             name: "ClickmeliveiOSSDKTarget",
             dependencies: [.target(name: "ClickmeliveiOSSDKWrapper", condition: .when(platforms: [.iOS]))],
@@ -36,9 +43,6 @@ let package = Package(
             ],
             path: "ClickmeliveiOSSDKWrapper"
         ),
-        .testTarget(
-            name: "ClickmeliveiOSSDKTests",
-            dependencies: ["ClickmeliveiOSSDK"]),
         .binaryTarget(name: "AmazonIVSPlayer", path: "AmazonIVSPlayer.xcframework"),
         .binaryTarget(name: "ClickmeliveiOSSDK", path: "ClickmeliveiOSSDK.xcframework"),
         .binaryTarget(name: "PIPKit", path: "PIPKit.xcframework"),
